@@ -13,6 +13,7 @@ USER_SEC_GW = 'admin'
 PASS_SEC_GW = sys.arg[2]
 
 # 1.- y 2.- Si tengo que hacer el comando 'fw log .... ' tengo que hacer un ssh y ejecutar el comando antes de el scp para traerme el archivo de logs
+ssh
 
 # 3.-
 try:
