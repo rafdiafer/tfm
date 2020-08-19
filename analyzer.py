@@ -1,10 +1,11 @@
 import sys
 import re
 from datetime import datetime
+import subprocess
 
 # format
-if len(sys.argv) != 5:
-    print('Format: generator.py file.log pass_admin_gw')
+if len(sys.argv) != 4:
+    print('Format: generator.py file.log pass_admin_gw repetitive')
     sys.exit()
 
 DIR_LOG = '$FWDIR/log/'
@@ -13,8 +14,9 @@ USER_SEC_GW = 'admin'
 PASS_SEC_GW = sys.arg[2]
 
 # 1.- y 2.- Si tengo que hacer el comando 'fw log .... ' tengo que hacer un ssh y ejecutar el comando antes de el scp para traerme el archivo de logs
-ssh
-
+# HACER SSH ADMIN@192.168.102.1, LUEGO EXPERT Y CONTESTAR AL EXPERT CON FABRIC, (mandar script solo si no existe) LUEGO EJECUTAR EL SCRIPT SENDLOGS.SH
+p = subprocess.Popen(["ssh admin@192.168.102.1 'expert'"])
+p.stdin.write("ad1847c38")
 # 3.-
 try:
     acceptedTraffic = False
