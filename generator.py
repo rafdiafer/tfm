@@ -1,3 +1,4 @@
+#!/usr/bin/python3.6
 import sys
 import re
 
@@ -18,5 +19,5 @@ print(string_uri)
 file_out = open(sys.argv[2], 'w')
 file_out.write(string_uri)
 
-file_uri.close
-file_out.close
+file_uri.close()
+file_out.close()

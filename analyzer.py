@@ -1,28 +1,57 @@
+#!/usr/bin/python3.6
 import sys
 import re
 from datetime import datetime
-import subprocess
+import paramiko
+from paramiko.channel import Channel
+import time
 
 # format
-if len(sys.argv) != 4:
-    print('Format: generator.py file.log pass_admin_gw repetitive')
+if len(sys.argv) != 3:
+    print('Format: analyzer.py pass_admin_gw ip_fw')
     sys.exit()
 
-DIR_LOG = '$FWDIR/log/'
-IP = '192.168.103.2'
+IP = str(sys.argv[2])
 USER_SEC_GW = 'admin'
-PASS_SEC_GW = sys.arg[2]
+PASS_SEC_GW = str(sys.argv[1])
 
 # 1.- y 2.- Si tengo que hacer el comando 'fw log .... ' tengo que hacer un ssh y ejecutar el comando antes de el scp para traerme el archivo de logs
 # HACER SSH ADMIN@192.168.102.1, LUEGO EXPERT Y CONTESTAR AL EXPERT CON FABRIC, (mandar script solo si no existe) LUEGO EJECUTAR EL SCRIPT SENDLOGS.SH
-p = subprocess.Popen(["ssh admin@192.168.102.1 'expert'"])
-p.stdin.write("ad1847c38")
-# 3.-
+ssh = paramiko.SSHClient()
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+ssh.connect(IP,username=USER_SEC_GW,password=PASS_SEC_GW)
+
+channel:Channel = ssh.invoke_shell()
+channel_data = str()
+
+while True:
+   if channel.recv_ready():
+       time.sleep(2)
+       channel_data += str(channel.recv(999))
+   else:
+       continue
+
+   channel.send("expert\n")
+   channel.send(PASS_SEC_GW + "\n")
+   time.sleep(2)
+   channel_data += str(channel.recv(999))
+
+   channel.send("./sendLogs.sh\n")
+   time.sleep(2)
+   channel_data += str(channel.recv(999))
+   time.sleep(20)
+   break
+
+for command in channel_data.split('\\r\\n'):
+    print (command)
+
+# 3.-   
 try:
     acceptedTraffic = False
     deniedTraffic = False
+    time_log = time.strftime("%Y_%m_%d")
 
-    with open(sys.argv[1], 'r') as file:
+    with open(time_log, 'r') as file:
         for line in file:
             lineArray = line.split(';')
 
