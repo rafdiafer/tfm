@@ -12,3 +12,15 @@ child.sendline(mypassword)
 child.expect("\r\nEnter expert password:")
 child.sendline(mypassword)
 child.command('./sendLogs.sh')
+
+
+
+
+
+
+
+
+# 1.- y 2.- Si tengo que hacer el comando 'fw log .... ' tengo que hacer un ssh y ejecutar el comando antes de el scp para traerme el archivo de logs
+# HACER SSH ADMIN@192.168.102.1, LUEGO EXPERT Y CONTESTAR AL EXPERT CON FABRIC, (mandar script solo si no existe) LUEGO EJECUTAR EL SCRIPT SENDLOGS.SH
+
+

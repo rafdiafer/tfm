@@ -11,7 +11,7 @@ if len(sys.argv) != 5:
 
 os.system("figlet CheckScript")
 
-print("This script uses four different scripts to throw day-one attacks to a server \
+print("INFORMATION: This script uses four different scripts to throw day-one attacks to a server \
 and, using a Checkpoint FW, get logs and stats from it, comparing which ones have been detected \
 as attacks and which ones not. \n\n")
 
@@ -19,6 +19,7 @@ uri_file_out = "launch_uri.uri"
 dir_out_time = "uri_with_timestamp"
 pass_admin_gw = sys.argv[2]
 
+print("Let's start!\n")
 try:
     subprocess.call(['python3', 'generator.py', sys.argv[1], uri_file_out])
 except:
@@ -30,11 +31,13 @@ except:
     print("launcher.py error")
 
 try:
-    subprocess.call(['python3', 'analyzer.py', pass_admin_gw, sys.argv[4]])
+    subprocess.call(['python3', 'analyzer.py', pass_admin_gw, sys.argv[4], sys.argv[3]])
 except:
     print("analyzer.py error")
 
-#try:
-    #os.system("comparer.py")
-#except:
-    #print("comparer.py error")
+try:
+    os.system("comparer.py")
+except:
+    print("comparer.py error")
+
+print("FINISH\n")

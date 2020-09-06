@@ -7,6 +7,7 @@ if len(sys.argv) != 3:
     print ('Format: generator.py file-raw.uri file-out.uri')
     sys.exit()
 
+print("Preparing URI files to launch them...")
 try:
     file_uri = open(sys.argv[1], 'r')
 except IOError:
@@ -14,7 +15,6 @@ except IOError:
 
 string_uri = file_uri.read()
 re.sub('.*[\ ]', '', string_uri)
-print(string_uri)
 
 file_out = open(sys.argv[2], 'w')
 file_out.write(string_uri)

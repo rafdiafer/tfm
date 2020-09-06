@@ -1,21 +1,28 @@
-import paramiko
+import sys
+import re
 import time
 
-client= paramiko.SSHClient()
-client.set_missing_host_key_policy(paramiko.AutoAddPolicy())
-client.connect('192.168.102.1',username='admin',password='ad1847c38')
-
-stdin,stdout,stderr = client.exec_command('expert')
-time.sleep(1)
-stdin.write('ad1847c38\n')
-stdin.flush()
-time.sleep(0.1)
-stdin.write('\n')
-stdin.flush()
+file_log = "log_prueba.txt"
 
 
-for line in stdout.readlines():
-    print(line+'\n') 
+try:
+	with open(file_log, 'r') as file:
+		for line in file:
+			numero = 0
+			lineArray = line.split(';')
+			print("Número 0 URI + TIMESTAMP: "+lineArray[0])
+			print("Número 17 RULE NAME: "+lineArray[17])
+			print("Número 8 SOURCE IP: "+lineArray[8])
+			print("Número 9 DESTINATION: "+lineArray[9])
+			print("\n------------------------------------------------------------------\n")
+			for i in lineArray:
+				print("Número "+str(numero)+" : "+i)
+				numero = numero +1
+
+			print("\n..................................................................\n")
+
+except IOError:
+	print('File does not exist')
 
 
 
