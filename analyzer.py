@@ -51,10 +51,8 @@ while True:
 # Now that we have the log file in local, we analyze the logs
 time_log = time.strftime("%Y_%m_%d")
 #time_log = "2020_09_04"
-print(time_log)
 file_log = "logs/" + time_log + '.log'
 print(file_log)
-contador_lineas_vacias = 1
 
 path_attacks_file = 'results/attacks_'+time_log+'.attacks'
 path_attacks_info_file = 'results/attacksInfo_'+time_log+'.attacks'
@@ -104,12 +102,12 @@ try:
                     lineArray[indexMalwareRule] = lineArray[indexMalwareRule].replace('malware_rule_id', 'Malware rule ID')
 
                     # writing only urls in this file
-                    attacksUris = open('results/attacks_'+time_log+'.attacks', append_or_write_1)
+                    attacksUris = open(path_attacks_file, append_or_write_1)
                     attacksUris.write(lineArray[indexURI]+'\n') # only URI
                     attacksUris.close
 
                     # writing urls and their info in this file
-                    attacksInfo = open('results/attacksInfo_'+time_log+'.attacks', append_or_write_2)
+                    attacksInfo = open(path_attacks_info_file, append_or_write_2)
                     attacksInfo.write(" URL: "+lineArray[indexURI] +'\n')
                     attacksInfo.write(lineArray[indexAttackInfo] +'\n') # Attack info
                     attacksInfo.write(lineArray[indexProtectionName] +'\n') # Protection name

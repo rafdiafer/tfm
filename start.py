@@ -16,19 +16,18 @@ and, using a Checkpoint FW, get logs and stats from it, comparing which ones hav
 as attacks and which ones not. \n\n")
 
 uri_file_out = "launch_uri.uri"
-dir_out_time = "uri_with_timestamp"
 pass_admin_gw = sys.argv[2]
 
 print("Let's start!\n")
-try:
-    subprocess.call(['python3', 'generator.py', sys.argv[1], uri_file_out])
-except:
-    print("generator.py error")
+#try:
+#    subprocess.call(['python3', 'generator.py', sys.argv[1], uri_file_out])
+#except:
+#    print("generator.py error")
 
-try:
-    subprocess.call(['python3', 'launcher.py', uri_file_out, dir_out_time, sys.argv[3]])
-except:
-    print("launcher.py error")
+#try:
+#    subprocess.call(['python3', 'launcher.py', uri_file_out, sys.argv[3]])
+#except:
+#    print("launcher.py error")
 
 try:
     subprocess.call(['python3', 'analyzer.py', pass_admin_gw, sys.argv[4], sys.argv[3]])
@@ -36,7 +35,7 @@ except:
     print("analyzer.py error")
 
 try:
-    os.system("comparer.py")
+    subprocess.call(['python3' ,'comparer.py', uri_file_out])
 except:
     print("comparer.py error")
 

@@ -6,22 +6,18 @@ import time
 import urllib.parse
 
 # format
-if len(sys.argv) != 4:
-    print('Format: launcher.py file.uri dir_out_time ip_server')
+if len(sys.argv) != 3:
+    print('Format: launcher.py file.uri ip_server')
     sys.exit()
 
 # constants
-IP_SERVER = sys.argv[3]
+IP_SERVER = sys.argv[2]
 URL = 'http://' + IP_SERVER
 date = time.strftime("%d_%m_%y")
-DIR_TIMESTAMP = sys.argv[2] + '_' + date
 
 # launch attacks (http requests)
 print("Launching attacks...\n")
 try:
-    print(sys.argv[1])
-    dir_timestamp = open(DIR_TIMESTAMP, 'w')
-
     caracteres_especiales = ";,`+\'"
     set_especiales = set(caracteres_especiales)
 
@@ -33,7 +29,7 @@ try:
 
             if len(set_especiales.intersection(set2)) > 0:
                 print(line)
-                line = urllib.parse.quote(line)
+                #line = urllib.parse.quote(line)
             
             print(line)
             launch_url = URL + line
@@ -43,15 +39,8 @@ try:
             except:
                 print("")
 
-            # save timestamp + uris
-            #times = time.strftime("%H:%M:%S")
-            #print(times)
-
-            #uri_and_time = times + " " + line + "\n"
-            #dir_timestamp.write(uri_and_time)
             time.sleep(0.1)
 except IOError:
     print('File does not exist')
 
 file.close()
-dir_timestamp.close()
