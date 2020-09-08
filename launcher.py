@@ -29,13 +29,13 @@ try:
 
             if len(set_especiales.intersection(set2)) > 0:
                 print(line)
-                #line = urllib.parse.quote(line)
+                line = urllib.parse.quote(line)
             
-            print(line)
             launch_url = URL + line
+            print(launch_url)
             try:
                 req = requests.get(launch_url, verify=false, timeout=2)
-                print(req.status_code)
+                #print(req.status_code)
             except:
                 print("")
 
