@@ -20,6 +20,7 @@ print("Launching attacks...\n")
 try:
     caracteres_especiales = ";,`+\'"
     set_especiales = set(caracteres_especiales)
+    i = 0
 
     with open(sys.argv[1], 'r') as file:
         for line in file:
@@ -34,13 +35,15 @@ try:
             launch_url = URL + line
             print(launch_url)
             try:
-                req = requests.get(launch_url, verify=false, timeout=2)
+                req = requests.get(launch_url, verify=False, timeout=5)
                 #print(req.status_code)
+                time.sleep(1)
             except:
-                print("")
+                print("\n") #Catching connection refused by peer exception
+                i = i+1
 
-            time.sleep(0.1)
 except IOError:
     print('File does not exist')
 
+print("Rejected connections by server: "+str(i)+"\n")
 file.close()

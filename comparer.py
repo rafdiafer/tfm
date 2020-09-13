@@ -14,8 +14,8 @@ if len(sys.argv) != 2:
     print('Format: comparer.py file_uri')
     sys.exit()
 
-#time_log = time.strftime("%Y_%m_%d")
-time_log = "2020_09_04"
+time_log = time.strftime("%Y_%m_%d")
+#time_log = "2020_09_04"
 path_clean = 'results/clean_' + time_log + '.clean'
 file_uri = sys.argv[1]
 file_log = 'results/attacks_' + time_log + '.attacks'

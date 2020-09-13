@@ -49,8 +49,8 @@ while True:
     #print (command)
 
 # Now that we have the log file in local, we analyze the logs
-#time_log = time.strftime("%Y_%m_%d")
-time_log = "2020_09_04"
+time_log = time.strftime("%Y_%m_%d")
+#time_log = "2020_09_04"
 file_log = "logs/" + time_log + '.log'
 print(file_log)
 
