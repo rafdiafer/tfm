@@ -29,10 +29,10 @@ print("Let's start!\n")
 # dos bucles for para mandar a generator y launcher todos los archivos de uris a lanzar
 for path in Path(sys.argv[1]).iterdir():
     if path.is_file():
-        #try:
-        subprocess.call(['python3', 'generator.py', path, uri_file_out, str(random_number)])
-        #except:
-        print("generator.py error")
+        try:
+            subprocess.call(['python3', 'generator.py', path, uri_file_out, str(random_number)])
+        except:
+            print("generator.py error")
 
         try:
             subprocess.call(['python3', 'launcher.py', uri_file_out, sys.argv[3], str(random_number)])
