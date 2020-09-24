@@ -6,14 +6,15 @@ import time
 import urllib.parse
 
 # format
-if len(sys.argv) != 3:
-    print('Format: launcher.py file.uri ip_server')
+if len(sys.argv) != 4:
+    print('Format: launcher.py file.uri ip_server randomnum')
     sys.exit()
 
 # constants
 IP_SERVER = sys.argv[2]
 URL = 'http://' + IP_SERVER
 date = time.strftime("%d_%m_%y")
+randomnum = sys.argv[3]
 
 # launch attacks (http requests)
 print("Launching attacks...\n")
@@ -22,7 +23,10 @@ try:
     set_especiales = set(caracteres_especiales)
     i = 0
 
-    with open(sys.argv[1], 'r') as file:
+    time_log = time.strftime("%Y_%m_%d")
+    path_uris_file = sys.argv[1] + '_'+ time_log + '_' + randomnum + '.uri'
+
+    with open(path_uris_file, 'r') as file:
         for line in file:
             line = line.rstrip('\n')
             
@@ -37,7 +41,7 @@ try:
             try:
                 req = requests.get(launch_url, verify=False, timeout=5)
                 #print(req.status_code)
-                time.sleep(1)
+                #time.sleep(1)
             except:
                 print("\n") #Catching connection refused by peer exception
                 i = i+1

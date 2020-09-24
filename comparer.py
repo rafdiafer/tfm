@@ -10,15 +10,16 @@ import urllib.parse
 # Lo que encuentre (las URLs que coincidan), seran las que ha detectado como ataques. Las que no se hayan encontrado
 # habrá que mandarlas al directorio de results/clean_....., pues no habrán sido detectadas como ataques.
 
-if len(sys.argv) != 2:
-    print('Format: comparer.py file_uri')
+if len(sys.argv) != 3:
+    print('Format: comparer.py file_uri randomnum')
     sys.exit()
 
 time_log = time.strftime("%Y_%m_%d")
 #time_log = "2020_09_04"
-path_clean = 'results/clean_' + time_log + '.clean'
+randomnum = sys.argv[2]
+path_clean = 'results/clean_' + time_log + '_' + randomnum + '.clean'
 file_uri = sys.argv[1]
-file_log = 'results/attacks_' + time_log + '.attacks'
+file_log = 'results/attacks_' + time_log + '_' + randomnum + '.attacks'
 #caracteres_especiales = ";,`+\'"
 #set_especiales = set(caracteres_especiales)
 
@@ -26,9 +27,9 @@ counter_accepted_uris = 0
 counter_prevent_uris = 0
 counter_total_uris = 0
 
-append_or_write = 'a'
+append_or_write = 'a+'
 if os.path.isfile(path_clean):
-    append_or_write = 'w'
+    append_or_write = 'w+'
 
 try:
 	with open(file_uri, 'r') as uris:

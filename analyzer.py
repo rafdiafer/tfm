@@ -8,8 +8,8 @@ import time
 import os.path
 
 # format
-if len(sys.argv) != 4:
-    print('Format: analyzer.py pass_admin_gw ip_fw ip_server')
+if len(sys.argv) != 5:
+    print('Format: analyzer.py pass_admin_gw ip_fw ip_server randomnum')
     sys.exit()
 
 IP = str(sys.argv[2])
@@ -52,12 +52,12 @@ while True:
 time_log = time.strftime("%Y_%m_%d")
 #time_log = "2020_09_04"
 file_log = "logs/" + time_log + '.log'
-print(file_log)
+randomnum = sys.argv[4]
 
-path_attacks_file = 'results/attacks_'+time_log+'.attacks'
-path_attacks_info_file = 'results/attacksInfo_'+time_log+'.attacks'
-append_or_write_1 = 'a'
-append_or_write_2 = 'a'
+path_attacks_file = 'results/attacks_'+time_log+'_' + randomnum + '.attacks'
+path_attacks_info_file = 'results/attacksInfo_'+time_log+'_' + randomnum + '.attacks'
+append_or_write_1 = 'a+'
+append_or_write_2 = 'a+'
 
 # indexes for printing in files
 indexURI = 0
@@ -67,9 +67,9 @@ indexProtectionName = 0
 indexMalwareRule = 0
 
 if os.path.isfile(path_attacks_file):
-    append_or_write_1 = 'w'
+    append_or_write_1 = 'w+'
 if os.path.isfile(path_attacks_info_file):
-    append_or_write_2 = 'w'
+    append_or_write_2 = 'w+'
 
 print("Analyzing logs...\n")
 try:
