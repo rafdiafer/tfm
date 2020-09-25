@@ -20,15 +20,15 @@ as attacks and which ones not. \n\n")
 uri_file_out = "launch_uri"
 pass_admin_gw = sys.argv[2]
 
-#one random number for the resulting files' name, so the dont replace them
-random_number = random.randint(0,9999)
-#print(random_number)
-
 print("Let's start!\n")
 
 # dos bucles for para mandar a generator y launcher todos los archivos de uris a lanzar
 for path in Path(sys.argv[1]).iterdir():
     if path.is_file():
+        #one random number for the resulting files' name, so the dont replace them
+        random_number = random.randint(0,9999)
+        #print(random_number)
+        
         try:
             subprocess.call(['python3', 'generator.py', path, uri_file_out, str(random_number)])
         except:
