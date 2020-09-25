@@ -5,11 +5,6 @@ import os.path
 import time
 import urllib.parse
 
-
-# Hacer la comparación entre 'results/attacks_'+log_file+'.attacks' con el primer ficher de URIs 'launch_uri.uri'
-# Lo que encuentre (las URLs que coincidan), seran las que ha detectado como ataques. Las que no se hayan encontrado
-# habrá que mandarlas al directorio de results/clean_....., pues no habrán sido detectadas como ataques.
-
 if len(sys.argv) != 3:
     print('Format: comparer.py file_uri randomnum')
     sys.exit()
