@@ -39,7 +39,7 @@ try:
             launch_url = URL + line
             print(launch_url)
             try:
-                req = requests.get(launch_url, verify=False, timeout=5)
+                req = requests.get(launch_url, verify=False, timeout=1)
                 #print(req.status_code)
                 #time.sleep(1)
             except:
@@ -50,4 +50,3 @@ except IOError:
     print('File does not exist')
 
 print("Rejected connections by server: "+str(i)+"\n")
-file.close()

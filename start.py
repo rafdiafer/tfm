@@ -17,18 +17,20 @@ print("INFORMATION: This script uses four different scripts to throw day-one att
 and, using a Checkpoint FW, get logs and stats from it, comparing which ones have been detected \
 as attacks and which ones not. \n\n")
 
-uri_file_out = "launch_uri"
+uri_file_out = "/run/media/dit/KINGSTON/resultadostfm/launch_uri/launch_uri"
 pass_admin_gw = sys.argv[2]
 
 print("Let's start!\n")
 
 # dos bucles for para mandar a generator y launcher todos los archivos de uris a lanzar
 for path in Path(sys.argv[1]).iterdir():
+    
+    #one random number for the resulting files' name, so the dont replace them
+    random_number = random.randint(0,9999)
+    #print(random_number)
+    print(path)
     if path.is_file():
-        #one random number for the resulting files' name, so the dont replace them
-        random_number = random.randint(0,9999)
-        #print(random_number)
-        
+        print(path)
         try:
             subprocess.call(['python3', 'generator.py', path, uri_file_out, str(random_number)])
         except:
@@ -45,7 +47,7 @@ for path in Path(sys.argv[1]).iterdir():
             print("analyzer.py error")
 
         try:
-            subprocess.call(['python3' ,'comparer.py', uri_file_out, str(random_number)])
+            subprocess.call(['python3' ,'comparer.py', uri_file_out, str(random_number), path])
         except:
             print("comparer.py error")
 

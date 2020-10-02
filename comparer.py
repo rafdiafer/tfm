@@ -5,16 +5,22 @@ import os.path
 import time
 import urllib.parse
 
-if len(sys.argv) != 3:
-    print('Format: comparer.py file_uri randomnum')
+
+# Hacer la comparación entre 'results/attacks_'+log_file+'.attacks' con el primer ficher de URIs 'launch_uri.uri'
+# Lo que encuentre (las URLs que coincidan), seran las que ha detectado como ataques. Las que no se hayan encontrado
+# habrá que mandarlas al directorio de results/clean_....., pues no habrán sido detectadas como ataques.
+
+if len(sys.argv) != 4:
+    print('Format: comparer.py file_uri randomnum path_uris')
     sys.exit()
 
 time_log = time.strftime("%Y_%m_%d")
 #time_log = "2020_09_04"
 randomnum = sys.argv[2]
-path_clean = 'results/clean_' + time_log + '_' + randomnum + '.clean'
-file_uri = sys.argv[1]
-file_log = 'results/attacks_' + time_log + '_' + randomnum + '.attacks'
+path_clean = '/run/media/dit/KINGSTON/resultadostfm/results/clean_' + time_log + '_' + randomnum + '.clean'
+file_uri = sys.argv[1] + '_' + time_log + '_' + randomnum + '.uri'
+file_log = '/run/media/dit/KINGSTON/resultadostfm/results/attacks_' + time_log + '_' + randomnum + '.attacks'
+path_uris = sys.argv[3]
 #caracteres_especiales = ";,`+\'"
 #set_especiales = set(caracteres_especiales)
 
@@ -66,6 +72,15 @@ except IOError:
 	print('File does not exist')
 
 print("\nRESULTS:\n")
-print("Number of launched URIs: "+ str(counter_total_uris))
-print("Number of accepted URIs: "+ str(counter_accepted_uris))
-print("Number of detected attacks: "+ str(counter_prevent_uris) + "\n")
+totalUrisStr = "Number of launched URIs: "+ str(counter_total_uris) + " | "
+print(totalUrisStr)
+totalAcceptedStr = "Number of accepted URIs: "+ str(counter_accepted_uris) + " | "
+print(totalAcceptedStr)
+totalDeniedUris = "Number of detected attacks: "+ str(counter_prevent_uris) + "\n"
+print(totalDeniedUris)
+
+finalResults = open('finalResults/finalResults.txt', 'a+')
+finalResults.write(path_uris + ':\n')
+finalResults.write(totalUrisStr)
+finalResults.write(totalAcceptedStr)
+finalResults.write(totalDeniedUris + '\n')

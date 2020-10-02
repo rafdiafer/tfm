@@ -1,0 +1,273 @@
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 17700Number of accepted URIs: 17677Number of detected attacks: 23
+
+Number of launched URIs: 19412Number of accepted URIs: 19386Number of detected attacks: 26
+
+Number of launched URIs: 33840Number of accepted URIs: 33273Number of detected attacks: 567
+
+Number of launched URIs: 16821Number of accepted URIs: 16794Number of detected attacks: 27
+
+Number of launched URIs: 19432Number of accepted URIs: 19407Number of detected attacks: 25
+
+Number of launched URIs: 18741Number of accepted URIs: 18717Number of detected attacks: 24
+
+Number of launched URIs: 17028Number of accepted URIs: 17003Number of detected attacks: 25
+
+Number of launched URIs: 82325Number of accepted URIs: 81277Number of detected attacks: 1048
+
+Number of launched URIs: 85676Number of accepted URIs: 84836Number of detected attacks: 840
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 87851Number of accepted URIs: 87287Number of detected attacks: 564
+
+Number of launched URIs: 56498Number of accepted URIs: 55844Number of detected attacks: 654
+
+Number of launched URIs: 12092Number of accepted URIs: 12073Number of detected attacks: 19
+
+Number of launched URIs: 4669Number of accepted URIs: 4643Number of detected attacks: 26
+
+Number of launched URIs: 5370Number of accepted URIs: 5352Number of detected attacks: 18
+
+Number of launched URIs: 18494Number of accepted URIs: 18473Number of detected attacks: 21
+
+Number of launched URIs: 18781Number of accepted URIs: 18760Number of detected attacks: 21
+
+Number of launched URIs: 79877Number of accepted URIs: 79217Number of detected attacks: 660
+
+Number of launched URIs: 18900Number of accepted URIs: 18873Number of detected attacks: 27
+
+Number of launched URIs: 15995Number of accepted URIs: 15973Number of detected attacks: 22
+
+Number of launched URIs: 119132Number of accepted URIs: 117955Number of detected attacks: 1177
+
+Number of launched URIs: 12958Number of accepted URIs: 12943Number of detected attacks: 15
+
+Number of launched URIs: 120770Number of accepted URIs: 119605Number of detected attacks: 1165
+
+Number of launched URIs: 4016Number of accepted URIs: 3995Number of detected attacks: 21
+
+Number of launched URIs: 4085Number of accepted URIs: 4055Number of detected attacks: 30
+
+Number of launched URIs: 17351Number of accepted URIs: 17326Number of detected attacks: 25
+
+Number of launched URIs: 17406Number of accepted URIs: 17384Number of detected attacks: 22
+
+Number of launched URIs: 16861Number of accepted URIs: 16831Number of detected attacks: 30
+
+Number of launched URIs: 80900Number of accepted URIs: 80093Number of detected attacks: 807
+
+Number of launched URIs: 14664Number of accepted URIs: 14631Number of detected attacks: 33
+
+Number of launched URIs: 266938Number of accepted URIs: 265513Number of detected attacks: 1425
+
+Number of launched URIs: 9464Number of accepted URIs: 9447Number of detected attacks: 17
+
+Number of launched URIs: 2274Number of accepted URIs: 2259Number of detected attacks: 15
+
+Number of launched URIs: 4045Number of accepted URIs: 4028Number of detected attacks: 17
+
+Number of launched URIs: 6153Number of accepted URIs: 6136Number of detected attacks: 17
+
+Number of launched URIs: 5518Number of accepted URIs: 5498Number of detected attacks: 20
+
+Number of launched URIs: 4564Number of accepted URIs: 4547Number of detected attacks: 17
+
+Number of launched URIs: 2581Number of accepted URIs: 2565Number of detected attacks: 16
+
+Number of launched URIs: 366735Number of accepted URIs: 363995Number of detected attacks: 2740
+
+Number of launched URIs: 275525Number of accepted URIs: 272972Number of detected attacks: 2553
+
+Number of launched URIs: 2251Number of accepted URIs: 2235Number of detected attacks: 16
+
+Number of launched URIs: 367253Number of accepted URIs: 364492Number of detected attacks: 2761
+
+Number of launched URIs: 17519Number of accepted URIs: 17473Number of detected attacks: 46
+
+Number of launched URIs: 4734Number of accepted URIs: 4719Number of detected attacks: 15
+
+Number of launched URIs: 175578Number of accepted URIs: 173990Number of detected attacks: 1588
+
+Number of launched URIs: 232433Number of accepted URIs: 231102Number of detected attacks: 1331
+
+Number of launched URIs: 18599Number of accepted URIs: 18573Number of detected attacks: 26
+
+Number of launched URIs: 126114Number of accepted URIs: 124947Number of detected attacks: 1167
+
+Number of launched URIs: 71282Number of accepted URIs: 70367Number of detected attacks: 915
+
+Number of launched URIs: 151869Number of accepted URIs: 150302Number of detected attacks: 1567
+
+Number of launched URIs: 263750Number of accepted URIs: 262219Number of detected attacks: 1531
+
+Number of launched URIs: 98986Number of accepted URIs: 97735Number of detected attacks: 1251
+
+Number of launched URIs: 209519Number of accepted URIs: 208238Number of detected attacks: 1281
+
+Number of launched URIs: 95304Number of accepted URIs: 94307Number of detected attacks: 997
+
+Number of launched URIs: 297290Number of accepted URIs: 294691Number of detected attacks: 2599
+
+Number of launched URIs: 333425Number of accepted URIs: 331036Number of detected attacks: 2389
+
+Number of launched URIs: 149091Number of accepted URIs: 148116Number of detected attacks: 975
+
+Number of launched URIs: 77214Number of accepted URIs: 76296Number of detected attacks: 918
+
+Number of launched URIs: 368094Number of accepted URIs: 365380Number of detected attacks: 2714
+
+Number of launched URIs: 337066Number of accepted URIs: 334851Number of detected attacks: 2215
+
+Number of launched URIs: 94505Number of accepted URIs: 93478Number of detected attacks: 1027
+
+Number of launched URIs: 222826Number of accepted URIs: 221533Number of detected attacks: 1293
+
+Number of launched URIs: 208865Number of accepted URIs: 207691Number of detected attacks: 1174
+
+Number of launched URIs: 235302Number of accepted URIs: 233378Number of detected attacks: 1924
+
+Number of launched URIs: 350116Number of accepted URIs: 346763Number of detected attacks: 3353
+
+Number of launched URIs: 150755Number of accepted URIs: 149309Number of detected attacks: 1446
+
+Number of launched URIs: 326842Number of accepted URIs: 324056Number of detected attacks: 2786
+
+Number of launched URIs: 256221Number of accepted URIs: 254511Number of detected attacks: 1710
+
+Number of launched URIs: 77271Number of accepted URIs: 76425Number of detected attacks: 846
+
+Number of launched URIs: 106182Number of accepted URIs: 105473Number of detected attacks: 709
+
+Number of launched URIs: 203187Number of accepted URIs: 201949Number of detected attacks: 1238
+
+Number of launched URIs: 369970Number of accepted URIs: 367198Number of detected attacks: 2772
+
+Number of launched URIs: 102625Number of accepted URIs: 101531Number of detected attacks: 1094
+
+Number of launched URIs: 126783Number of accepted URIs: 125761Number of detected attacks: 1022
+
+Number of launched URIs: 106029Number of accepted URIs: 105272Number of detected attacks: 757
+
+Number of launched URIs: 161987Number of accepted URIs: 160882Number of detected attacks: 1105
+
+Number of launched URIs: 120823Number of accepted URIs: 119707Number of detected attacks: 1116
+
+Number of launched URIs: 282660Number of accepted URIs: 280091Number of detected attacks: 2569
+
+Number of launched URIs: 67447Number of accepted URIs: 66933Number of detected attacks: 514
+
+Number of launched URIs: 353984Number of accepted URIs: 351152Number of detected attacks: 2832
+
+Number of launched URIs: 72890Number of accepted URIs: 72363Number of detected attacks: 527
+
+Number of launched URIs: 420697Number of accepted URIs: 417614Number of detected attacks: 3083
+
+Number of launched URIs: 310613Number of accepted URIs: 308393Number of detected attacks: 2220
+
+Number of launched URIs: 273855Number of accepted URIs: 272250Number of detected attacks: 1605
+
+Number of launched URIs: 366966Number of accepted URIs: 364428Number of detected attacks: 2538
+
+Number of launched URIs: 215148Number of accepted URIs: 213244Number of detected attacks: 1904
+
+Number of launched URIs: 187260Number of accepted URIs: 186072Number of detected attacks: 1188
+
+Number of launched URIs: 79662Number of accepted URIs: 79662Number of detected attacks: 0
+
+Number of launched URIs: 139Number of accepted URIs: 139Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 67275Number of accepted URIs: 67275Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 370954Number of accepted URIs: 370954Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 367218Number of accepted URIs: 367218Number of detected attacks: 0
+
+Number of launched URIs: 234832Number of accepted URIs: 234832Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 253175Number of accepted URIs: 253175Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launched URIs: 0Number of accepted URIs: 0Number of detected attacks: 0
+
+Number of launche

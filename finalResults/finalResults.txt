@@ -1,0 +1,12 @@
+/run/media/dit/KINGSTON/uris1/._access_log-20170207-raw.uri:
+Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+
+/run/media/dit/KINGSTON/uris1/._access_log-20170207-raw.uri:
+Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+
+/run/media/dit/KINGSTON/uris1/access_log-20170206-raw.uri:
+Number of launched URIs: 1 | Number of accepted URIs: 0 | Number of detected attacks: 0
+
+/run/media/dit/KINGSTON/uris1/._access_log-20170206-raw.uri:
+Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+
