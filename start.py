@@ -17,7 +17,7 @@ print("INFORMATION: This script uses four different scripts to throw day-one att
 and, using a Checkpoint FW, get logs and stats from it, comparing which ones have been detected \
 as attacks and which ones not. \n\n")
 
-uri_file_out = "/run/media/dit/KINGSTON/resultadostfm/launch_uri/launch_uri"
+uri_file_out = "/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/resultadostfm/launch_uri/launch_uri"
 pass_admin_gw = sys.argv[2]
 
 print("Let's start!\n")

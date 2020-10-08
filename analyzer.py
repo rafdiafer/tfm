@@ -51,11 +51,11 @@ for command in channel_data.split('\\r\\n'):
 # Now that we have the log file in local, we analyze the logs
 time_log = time.strftime("%Y_%m_%d")
 #time_log = "2020_09_04"
-file_log = "/run/media/dit/KINGSTON/logs/" + time_log + '.log'
+file_log = "/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/resultadostfm/logs/" + time_log + '.log'
 randomnum = sys.argv[4]
 
-path_attacks_file = '/run/media/dit/KINGSTON/resultadostfm/results/attacks_'+time_log+'_' + randomnum + '.attacks'
-path_attacks_info_file = '/run/media/dit/KINGSTON/resultadostfm/results/attacksInfo_'+time_log+'_' + randomnum + '.attacks'
+path_attacks_file = '/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/resultadostfm/results/attacks_'+time_log+'_' + randomnum + '.attacks'
+path_attacks_info_file = '/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/resultadostfm/results/attacksInfo_'+time_log+'_' + randomnum + '.attacks'
 append_or_write_1 = 'a+'
 append_or_write_2 = 'a+'
 
