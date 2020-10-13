@@ -1,12 +1,1109 @@
-/run/media/dit/KINGSTON/uris1/._access_log-20170207-raw.uri:
-Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+ssl_access_log-20170516-raw.uri:
+Number of launched URIs: 17700 | Number of accepted URIs: 17677 | Number of detected attacks: 23 
 
-/run/media/dit/KINGSTON/uris1/._access_log-20170207-raw.uri:
-Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+ssl_access_log-20170321-raw.uri:
+Number of launched URIs: 19412 | Number of accepted URIs: 19386 | Number of detected attacks: 26
 
-/run/media/dit/KINGSTON/uris1/access_log-20170206-raw.uri:
-Number of launched URIs: 1 | Number of accepted URIs: 0 | Number of detected attacks: 0
+access_log-20170101-raw.uri:
+Number of launched URIs: 33840 | Number of accepted URIs: 33273 | Number of detected attacks: 567
 
-/run/media/dit/KINGSTON/uris1/._access_log-20170206-raw.uri:
-Number of launched URIs: 0 | Number of accepted URIs: 0 | Number of detected attacks: 0
+ssl_access_log-20170518-raw.uri:
+Number of launched URIs: 16821 | Number of accepted URIs: 16794 | Number of detected attacks: 27
 
+ssl_access_log-20170322-raw.uri:
+Number of launched URIs: 19432 | Number of accepted URIs: 19407 | Number of detected attacks: 25
+
+ssl_access_log-20170323-raw.uri:
+Number of launched URIs: 18741 | Number of accepted URIs: 18717 | Number of detected attacks: 24
+
+access_log-20170527-raw.uri:
+Number of launched URIs: 17028 | Number of accepted URIs: 17003 | Number of detected attacks: 25
+
+access_log-20170206-raw.uri:
+Number of launched URIs: 82325 | Number of accepted URIs: 81277 | Number of detected attacks: 1048
+
+access_log-20170502-raw.uri:
+Number of launched URIs: 85676 | Number of accepted URIs: 84836 | Number of detected attacks: 840
+
+access_log-20170317-raw.uri:
+Number of launched URIs: 333426 | Number of accepted URIs: 333426 | Number of detected attacks: 0
+
+ssl_access_log-20170625-raw.uri:
+Number of launched URIs: 87851 | Number of accepted URIs: 87287 | Number of detected attacks: 564
+
+access_log-20170102-raw.uri:
+Number of launched URIs: 56498 | Number of accepted URIs: 55844 | Number of detected attacks: 654
+
+ssl_access_log-20170325-raw.uri:
+Number of launched URIs: 12092 | Number of accepted URIs: 12073 | Number of detected attacks: 19
+
+ssl_access_log-20170326-raw.uri:
+Number of launched URIs: 4669 | Number of accepted URIs: 4643 | Number of detected attacks: 26
+
+ssl_access_log-20170327-raw.uri:
+Number of launched URIs: 5370 | Number of accepted URIs: 5352 | Number of detected attacks: 18
+
+ssl_access_log-20170328-raw.uri:
+Number of launched URIs: 18494 | Number of accepted URIs: 18473 | Number of detected attacks: 21
+
+ssl_access_log-20170329-raw.uri:
+Number of launched URIs: 18781 | Number of accepted URIs: 18760 | Number of detected attacks: 21
+
+ssl_access_log-20170626-raw.uri:
+Number of launched URIs: 79877 | Number of accepted URIs: 79217 | Number of detected attacks: 660
+
+ssl_access_log-20170330-raw.uri:
+Number of launched URIs: 18900 | Number of accepted URIs: 18873 | Number of detected attacks: 27
+
+ssl_access_log-20170331-raw.uri:
+Number of launched URIs: 15995 | Number of accepted URIs: 15973 | Number of detected attacks: 22
+
+access_log-20170506-raw.uri:
+Number of launched URIs: 119132 | Number of accepted URIs: 117955 | Number of detected attacks: 1177
+
+ssl_access_log-20170401-raw.uri:
+Number of launched URIs: 12958 | Number of accepted URIs: 12943 | Number of detected attacks: 15
+
+access_log-20170103-raw.uri:
+Number of launched URIs: 120770 | Number of accepted URIs: 119605 | Number of detected attacks: 1165
+
+ssl_access_log-20170402-raw.uri:
+Number of launched URIs: 4016 | Number of accepted URIs: 3995 | Number of detected attacks: 21
+
+ssl_access_log-20170403-raw.uri:
+Number of launched URIs: 4085 | Number of accepted URIs: 4055 | Number of detected attacks: 30
+
+ssl_access_log-20170404-raw.uri:
+Number of launched URIs: 17351 | Number of accepted URIs: 17326 | Number of detected attacks: 25
+
+ssl_access_log-20170405-raw.uri:
+Number of launched URIs: 17406 | Number of accepted URIs: 17384 | Number of detected attacks: 22
+
+ssl_access_log-20170406-raw.uri:
+Number of launched URIs: 16861 | Number of accepted URIs: 16831 | Number of detected attacks: 30
+
+access_log-20170507-raw.uri:
+Number of launched URIs: 80900 | Number of accepted URIs: 80093 | Number of detected attacks: 807
+
+ssl_access_log-20170407-raw.uri:
+Number of launched URIs: 14664 | Number of accepted URIs: 14631 | Number of detected attacks: 33
+
+ssl_access_log-20170609-raw.uri:
+Number of launched URIs: 266938 | Number of accepted URIs: 265513 | Number of detected attacks: 1425
+
+ssl_access_log-20170408-raw.uri:
+Number of launched URIs: 9464 | Number of accepted URIs: 9447 | Number of detected attacks: 17
+
+ssl_access_log-20170409-raw.uri:
+Number of launched URIs: 2274 | Number of accepted URIs: 2259 | Number of detected attacks: 15
+
+ssl_access_log-20170410-raw.uri:
+Number of launched URIs: 4045 | Number of accepted URIs: 4028 | Number of detected attacks: 17
+
+ssl_access_log-20170411-raw.uri:
+Number of launched URIs: 6153 | Number of accepted URIs: 6136 | Number of detected attacks: 17
+
+ssl_access_log-20170412-raw.uri:
+Number of launched URIs: 5518 | Number of accepted URIs: 5498 | Number of detected attacks: 20
+
+ssl_access_log-20170413-raw.uri:
+Number of launched URIs: 4564 | Number of accepted URIs: 4547 | Number of detected attacks: 17
+
+ssl_access_log-20170414-raw.uri:
+Number of launched URIs: 2581 | Number of accepted URIs: 2565 | Number of detected attacks: 16
+
+access_log-20170316-raw.uri:
+Number of launched URIs: 366735 | Number of accepted URIs: 363995 | Number of detected attacks: 2740
+
+access_log-20170207-raw.uri:
+Number of launched URIs: 275525 | Number of accepted URIs: 272972 | Number of detected attacks: 2553
+
+ssl_access_log-20170415-raw.uri:
+Number of launched URIs: 2251 | Number of accepted URIs: 2235 | Number of detected attacks: 16
+
+access_log-20170328-raw.uri:
+Number of launched URIs: 367253 | Number of accepted URIs: 364492 | Number of detected attacks: 2761
+
+ssl_access_log-20170416-raw.uri:
+Number of launched URIs: 17519 | Number of accepted URIs: 17473 | Number of detected attacks: 46
+
+ssl_access_log-20170417-raw.uri:
+Number of launched URIs: 4734 | Number of accepted URIs: 4719 | Number of detected attacks: 15
+
+access_log-20170104-raw.uri:
+Number of launched URIs: 175578 | Number of accepted URIs: 173990 | Number of detected attacks: 1588
+
+ssl_access_log-20170627-raw.uri:
+Number of launched URIs: 232433 | Number of accepted URIs: 231102 | Number of detected attacks: 1331
+
+ssl_access_log-20170418-raw.uri:
+Number of launched URIs: 18599 | Number of accepted URIs: 18573 | Number of detected attacks: 26
+
+access_log-20170508-raw.uri:
+Number of launched URIs: 126114 | Number of accepted URIs: 124947 | Number of detected attacks: 1167
+
+access_log-20170219-raw.uri:
+Number of launched URIs: 71282 | Number of accepted URIs: 70367 | Number of detected attacks: 915
+
+access_log-20170105-raw.uri:
+Number of launched URIs: 151869 | Number of accepted URIs: 150302 | Number of detected attacks: 1567
+
+ssl_access_log-20170615-raw.uri:
+Number of launched URIs: 263750 | Number of accepted URIs: 262219 | Number of detected attacks: 1531
+
+access_log-20170220-raw.uri:
+Number of launched URIs: 98986 | Number of accepted URIs: 97735 | Number of detected attacks: 1251
+
+ssl_access_log-20170628-raw.uri:
+Number of launched URIs: 209519 | Number of accepted URIs: 208238 | Number of detected attacks: 1281
+
+access_log-20170106-raw.uri:
+Number of launched URIs: 95304 | Number of accepted URIs: 94307 | Number of detected attacks: 997
+
+
+Number of launched URIs: 297290 | Number of accepted URIs: 294691 | Number of detected attacks: 2599
+
+access_log-20170208-raw.uri:
+Number of launched URIs: 333425| Number of accepted URIs: 331036 | Number of detected attacks: 2389
+
+ssl_access_log-20170616-raw.uri
+Number of launched URIs: 149091 | Number of accepted URIs: 148116 | Number of detected attacks: 975
+
+access_log-20170107-raw.uri:
+Number of launched URIs: 77214 | Number of accepted URIs: 76296 | Number of detected attacks: 918
+
+access_log-20170329-raw.uri:
+Number of launched URIs: 368094 | Number of accepted URIs: 365380 | Number of detected attacks: 2714
+
+access_log-20170512-raw.uri
+Number of launched URIs: 337066 | Number of accepted URIs: 334851 | Number of detected attacks: 2215
+
+access_log-20170108-raw.uri:
+Number of launched URIs: 94505 | Number of accepted URIs: 93478 | Number of detected attacks: 1027
+
+ssl_access_log-20170629-raw.uri:
+Number of launched URIs: 222826 | Number of accepted URIs: 221533 | Number of detected attacks: 1293
+
+ssl_access_log-20170617-raw.uri:
+Number of launched URIs: 208865 | Number of accepted URIs: 207691 | Number of detected attacks: 1174
+
+access_log-20170318-raw.uri:
+Number of launched URIs: 235302 | Number of accepted URIs: 233378 | Number of detected attacks: 1924
+
+access_log-20170221-raw.uri:
+Number of launched URIs: 350116 | Number of accepted URIs: 346763 | Number of detected attacks: 3353
+
+access_log-20170109-raw.uri:
+Number of launched URIs: 150755 | Number of accepted URIs: 149309 | Number of detected attacks: 1446
+
+access_log-20170209-raw.uri:
+Number of launched URIs: 326842 | Number of accepted URIs: 324056 | Number of detected attacks: 2786
+
+access_log-20170513-raw.uri:
+Number of launched URIs: 256221 | Number of accepted URIs: 254511 | Number of detected attacks: 1710
+
+access_log-20170319-raw.uri:
+Number of launched URIs: 77271 | Number of accepted URIs: 76425 | Number of detected attacks: 846
+
+ssl_access_log-20170618-raw.uri:
+Number of launched URIs: 106182 | Number of accepted URIs: 105473 | Number of detected attacks: 709
+
+ssl_access_log-20170630-raw.uri:
+Number of launched URIs: 203187 | Number of accepted URIs: 201949 | Number of detected attacks: 1238
+
+access_log-20170330-raw.uri:
+Number of launched URIs: 369970 | Number of accepted URIs: 367198 | Number of detected attacks: 2772
+
+access_log-20170320-raw.uri:
+Number of launched URIs: 102625 | Number of accepted URIs: 101531 | Number of detected attacks: 1094
+
+access_log-20170122-raw.uri:
+Number of launched URIs: 126783 | Number of accepted URIs: 125761 | Number of detected attacks: 1022
+
+ssl_access_log-20170619-raw.uri:
+Number of launched URIs: 106029 | Number of accepted URIs: 105272 | Number of detected attacks: 757
+
+ssl_access_log-20170701-raw.uri:
+Number of launched URIs: 161987 | Number of accepted URIs: 160882 | Number of detected attacks: 1105
+
+access_log-20170515-raw.uri:
+Number of launched URIs: 120823 | Number of accepted URIs: 119707 | Number of detected attacks: 1116
+
+access_log-20170210-raw.uri:
+Number of launched URIs: 282660 | Number of accepted URIs: 280091 | Number of detected attacks: 2569
+
+ssl_access_log-20170702-raw.uri
+Number of launched URIs: 67447 | Number of accepted URIs: 66933 | Number of detected attacks: 514
+
+access_log-20170222-raw.uri:
+Number of launched URIs: 353984 | Number of accepted URIs: 351152 | Number of detected attacks: 2832
+
+ssl_access_log-20170703-raw.uri:
+Number of launched URIs: 72890 | Number of accepted URIs: 72363 | Number of detected attacks: 527
+
+access_log-20170110-raw.uri:
+Number of launched URIs: 420697 | Number of accepted URIs: 417614 | Number of detected attacks: 3083
+
+access_log-20170331-raw.uri:
+Number of launched URIs: 310613 | Number of accepted URIs: 308393 | Number of detected attacks: 2220
+
+ssl_access_log-20170620-raw.uri:
+Number of launched URIs: 273855 | Number of accepted URIs: 272250 | Number of detected attacks: 1605
+
+access_log-20170321-raw.uri:
+Number of launched URIs: 366966 | Number of accepted URIs: 364428 | Number of detected attacks: 2538
+
+access_log-20170211-raw.uri:
+Number of launched URIs: 215148 | Number of accepted URIs: 213244 | Number of detected attacks: 1904
+
+ssl_access_log-20170704-raw.uri:
+Number of launched URIs: 187260 | Number of accepted URIs: 186072 | Number of detected attacks: 1188
+
+access_log-20170212-raw.uri:
+Number of launched URIs: 79662 | Number of accepted URIs: 79662 | Number of detected attacks: 0
+
+access_log-20170610-raw.uri:
+Number of launched URIs: 139 | Number of accepted URIs: 139 | Number of detected attacks: 0
+
+access_log-20170514-raw.uri:
+Number of launched URIs: 17320 | Number of accepted URIs: 17320 | Number of detected attacks: 0
+
+ssl_access_log-20170324-raw.uri:
+Number of launched URIs: 334933 | Number of accepted URIs: 334933 | Number of detected attacks: 0
+
+ssl_access_log-20170517-raw.uri:
+Number of launched URIs: 388176 | Number of accepted URIs: 388176 | Number of detected attacks: 0
+
+ssl_access_log-20170628-raw.uri:
+Number of launched URIs: 209520 | Number of accepted URIs: 209520 | Number of detected attacks: 0
+
+access_log-20170516-raw.uri:
+Number of launched URIs: 370954 | Number of accepted URIs: 370954 | Number of detected attacks: 0
+
+access_log-20170223-raw.uri:
+Number of launched URIs: 367218 | Number of accepted URIs: 367218 | Number of detected attacks: 0
+
+access_log-20170401-raw.uri:
+Number of launched URIs: 234832 | Number of accepted URIs: 234832 | Number of detected attacks: 0
+
+ssl_access_log-20170621-raw.uri:
+Number of launched URIs: 253175 | Number of accepted URIs: 253175 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170519-raw.uri:
+Number of launched URIs: 315819 | Number of accepted URIs: 315819 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170417-raw.uri:
+Number of launched URIs: 103430 | Number of accepted URIs: 103430 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170213-raw.uri:
+Number of launched URIs: 4805 | Number of accepted URIs: 4805 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170525-raw.uri:
+Number of launched URIs: 19646 | Number of accepted URIs: 19646 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170120-raw.uri:
+Number of launched URIs: 260958 | Number of accepted URIs: 260958 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170426-raw.uri:
+Number of launched URIs: 344173 | Number of accepted URIs: 344173 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170511-raw.uri:
+Number of launched URIs: 357116 | Number of accepted URIs: 357116 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170220-raw.uri:
+Number of launched URIs: 4767 | Number of accepted URIs: 4767 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170513-raw.uri:
+Number of launched URIs: 11598 | Number of accepted URIs: 11598 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170523-raw.uri:
+Number of launched URIs: 454808 | Number of accepted URIs: 454808 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170426-raw.uri:
+Number of launched URIs: 16202 | Number of accepted URIs: 16202 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170311-raw.uri:
+Number of launched URIs: 235621 | Number of accepted URIs: 235621 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170325-raw.uri:
+Number of launched URIs: 255536 | Number of accepted URIs: 255536 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170129-raw.uri:
+Number of launched URIs: 461 | Number of accepted URIs: 461 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170310-raw.uri:
+Number of launched URIs: 63025 | Number of accepted URIs: 63025 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170525-raw.uri:
+Number of launched URIs: 392381 | Number of accepted URIs: 392381 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170604-raw.uri:
+Number of launched URIs: 12434 | Number of accepted URIs: 12434 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170526-raw.uri:
+Number of launched URIs: 21168 | Number of accepted URIs: 21168 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170303-raw.uri:
+Number of launched URIs: 333130 | Number of accepted URIs: 333130 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170208-raw.uri:
+Number of launched URIs: 16243 | Number of accepted URIs: 16243 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170531-raw.uri:
+Number of launched URIs: 206661 | Number of accepted URIs: 206661 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170308-raw.uri:
+Number of launched URIs: 19947 | Number of accepted URIs: 19947 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170714-raw.uri:
+Number of launched URIs: 9462 | Number of accepted URIs: 9462 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170514-raw.uri:
+Number of launched URIs: 4660 | Number of accepted URIs: 4660 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170523-raw.uri:
+Number of launched URIs: 20044 | Number of accepted URIs: 20044 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170305-raw.uri:
+Number of launched URIs: 4561 | Number of accepted URIs: 4561 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170701-raw.uri:
+Number of launched URIs: 13958 | Number of accepted URIs: 13958 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170301-raw.uri:
+Number of launched URIs: 6465 | Number of accepted URIs: 6465 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170404-raw.uri:
+Number of launched URIs: 351692 | Number of accepted URIs: 351692 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170422-raw.uri:
+Number of launched URIs: 234536 | Number of accepted URIs: 234536 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170707-raw.uri:
+Number of launched URIs: 172991 | Number of accepted URIs: 172991 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170503-raw.uri:
+Number of launched URIs: 5724 | Number of accepted URIs: 5724 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170318-raw.uri:
+Number of launched URIs: 12469 | Number of accepted URIs: 12469 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170305-raw.uri:
+Number of launched URIs: 4561 | Number of accepted URIs: 4561 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170309-raw.uri:
+Number of launched URIs: 18849 | Number of accepted URIs: 18849 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170504-raw.uri:
+Number of launched URIs: 135392 | Number of accepted URIs: 135392 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170203-raw.uri:
+Number of launched URIs: 11627 | Number of accepted URIs: 11627 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170715-raw.uri:
+Number of launched URIs: 8588 | Number of accepted URIs: 8588 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170209-raw.uri:
+Number of launched URIs: 16972 | Number of accepted URIs: 16972 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170613-raw.uri:
+Number of launched URIs: 288261 | Number of accepted URIs: 288261 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170402-raw.uri:
+Number of launched URIs: 91597 | Number of accepted URIs: 91597 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170124-raw.uri:
+Number of launched URIs: 324153 | Number of accepted URIs: 324153 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170710-raw.uri:
+Number of launched URIs: 9068 | Number of accepted URIs: 9068 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170428-raw.uri:
+Number of launched URIs: 15448 | Number of accepted URIs: 15448 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170526-raw.uri:
+Number of launched URIs: 363028 | Number of accepted URIs: 363028 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170302-raw.uri:
+Number of launched URIs: 21058 | Number of accepted URIs: 21058 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170708-raw.uri:
+Number of launched URIs: 123445 | Number of accepted URIs: 123445 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170528-raw.uri:
+Number of launched URIs: 13820 | Number of accepted URIs: 13820 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170606-raw.uri:
+Number of launched URIs: 310941 | Number of accepted URIs: 310941 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170222-raw.uri:
+Number of launched URIs: 20640 | Number of accepted URIs: 20640 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170315-raw.uri:
+Number of launched URIs: 367208 | Number of accepted URIs: 367208 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170607-raw.uri:
+Number of launched URIs: 301031 | Number of accepted URIs: 301031 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170601-raw.uri:
+Number of launched URIs: 333260 | Number of accepted URIs: 333260 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170113-raw.uri:
+Number of launched URIs: 318680 | Number of accepted URIs: 318680 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170216-raw.uri:
+Number of launched URIs: 324204 | Number of accepted URIs: 324204 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170201-raw.uri:
+Number of launched URIs: 244811 | Number of accepted URIs: 244811 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170406-raw.uri:
+Number of launched URIs: 331938 | Number of accepted URIs: 331938 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170527-raw.uri:
+Number of launched URIs: 278325 | Number of accepted URIs: 278325 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170224-raw.uri:
+Number of launched URIs: 16415 | Number of accepted URIs: 16415 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170128-raw.uri:
+Number of launched URIs: 1556 | Number of accepted URIs: 1556 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170519-raw.uri:
+Number of launched URIs: 37874 | Number of accepted URIs: 37874 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170505-raw.uri:
+Number of launched URIs: 128269 | Number of accepted URIs: 128269 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170207-raw.uri:
+Number of launched URIs: 14744 | Number of accepted URIs: 14744 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170608-raw.uri:
+Number of launched URIs: 14971 | Number of accepted URIs: 14971 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170213-raw.uri:
+Number of launched URIs: 103404 | Number of accepted URIs: 103404 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170521-raw.uri:
+Number of launched URIs: 13205 | Number of accepted URIs: 13205 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170705-raw.uri:
+Number of launched URIs: 186255 | Number of accepted URIs: 186255 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170509-raw.uri:
+Number of launched URIs: 19555 | Number of accepted URIs: 19555 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170521-raw.uri:
+Number of launched URIs: 134555 | Number of accepted URIs: 134555 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170418-raw.uri:
+Number of launched URIs: 368146 | Number of accepted URIs: 368146 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170601-raw.uri:
+Number of launched URIs: 14733 | Number of accepted URIs: 14733 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170421-raw.uri:
+Number of launched URIs: 16587 | Number of accepted URIs: 16587 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170702-raw.uri:
+Number of launched URIs: 13483 | Number of accepted URIs: 13483 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170614-raw.uri:
+Number of launched URIs: 261972 | Number of accepted URIs: 261972 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170227-raw.uri:
+Number of launched URIs: 78837 | Number of accepted URIs: 78837 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170409-raw.uri:
+Number of launched URIs: 61783 | Number of accepted URIs: 61783 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170711-raw.uri:
+Number of launched URIs: 15026 | Number of accepted URIs: 15026 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170204-raw.uri:
+Number of launched URIs: 9059 | Number of accepted URIs: 9059 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170524-raw.uri:
+Number of launched URIs: 430686 | Number of accepted URIs: 430686 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170507-raw.uri:
+Number of launched URIs: 3132 | Number of accepted URIs: 3132 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170424-raw.uri:
+Number of launched URIs: 117654 | Number of accepted URIs: 117654 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170529-raw.uri:
+Number of launched URIs: 11626 | Number of accepted URIs: 11626 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170119-raw.uri:
+Number of launched URIs: 270860 | Number of accepted URIs: 270860 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170408-raw.uri:
+Number of launched URIs: 189994 | Number of accepted URIs: 189994 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170509-raw.uri:
+Number of launched URIs: 390676 | Number of accepted URIs: 390676 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170214-raw.uri:
+Number of launched URIs: 321845 | Number of accepted URIs: 321845 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170319-raw.uri:
+Number of launched URIs: 3294 | Number of accepted URIs: 3294 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170510-raw.uri:
+Number of launched URIs: 18555 | Number of accepted URIs: 18555 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170309-raw.uri:
+Number of launched URIs: 18849 | Number of accepted URIs: 18849 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170413-raw.uri:
+Number of launched URIs: 105056 | Number of accepted URIs: 105056 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170202-raw.uri:
+Number of launched URIs: 223348 | Number of accepted URIs: 223348 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170223-raw.uri:
+Number of launched URIs: 24813 | Number of accepted URIs: 24813 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170612-raw.uri:
+Number of launched URIs: 166659 | Number of accepted URIs: 166659 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170206-raw.uri:
+Number of launched URIs: 3242 | Number of accepted URIs: 3242 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170501-raw.uri:
+Number of launched URIs: 2636 | Number of accepted URIs: 2623 | Number of detected attacks: 13
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170410-raw.uri:
+Number of launched URIs: 62186 | Number of accepted URIs: 61456 | Number of detected attacks: 730
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170205-raw.uri:
+Number of launched URIs: 3146 | Number of accepted URIs: 3127 | Number of detected attacks: 19
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170703-raw.uri:
+Number of launched URIs: 13768 | Number of accepted URIs: 13466 | Number of detected attacks: 302
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170425-raw.uri:
+Number of launched URIs: 314877 | Number of accepted URIs: 312623 | Number of detected attacks: 2254
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170715-raw.uri:
+Number of launched URIs: 109440 | Number of accepted URIs: 108618 | Number of detected attacks: 822
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170301-raw.uri:
+Number of launched URIs: 139193 | Number of accepted URIs: 137693 | Number of detected attacks: 1500
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170503-raw.uri:
+Number of launched URIs: 137681 | Number of accepted URIs: 136598 | Number of detected attacks: 1083
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170706-raw.uri:
+Number of launched URIs: 15036 | Number of accepted URIs: 14630 | Number of detected attacks: 406
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170429-raw.uri:
+Number of launched URIs: 10904 | Number of accepted URIs: 10886 | Number of detected attacks: 18
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170709-raw.uri:
+Number of launched URIs: 56850 | Number of accepted URIs: 56415 | Number of detected attacks: 435
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170605-raw.uri:
+Number of launched URIs: 128260 | Number of accepted URIs: 128260 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170217-raw.uri:
+Number of launched URIs: 23195 | Number of accepted URIs: 23195 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170602-raw.uri:
+Number of launched URIs: 15013 | Number of accepted URIs: 15013 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170704-raw.uri:
+Number of launched URIs: 19691 | Number of accepted URIs: 19691 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170708-raw.uri:
+Number of launched URIs: 11610 | Number of accepted URIs: 11610 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170416-raw.uri:
+Number of launched URIs: 64169 | Number of accepted URIs: 64169 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170524-raw.uri:
+Number of launched URIs: 21423 | Number of accepted URIs: 21423 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170623-raw.uri:
+Number of launched URIs: 15024 | Number of accepted URIs: 15024 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170502-raw.uri:
+Number of launched URIs: 3098 | Number of accepted URIs: 3098 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170716-raw.uri:
+Number of launched URIs: 7271 | Number of accepted URIs: 7271 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170304-raw.uri:
+Number of launched URIs: 253912 | Number of accepted URIs: 253912 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170430-raw.uri:
+Number of launched URIs: 2915 | Number of accepted URIs: 2915 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170225-raw.uri:
+Number of launched URIs: 204986 | Number of accepted URIs: 204986 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170308-raw.uri:
+Number of launched URIs: 382112 | Number of accepted URIs: 382112 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170115-raw.uri:
+Number of launched URIs: 17926 | Number of accepted URIs: 17926 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170130-raw.uri:
+Number of launched URIs: 467 | Number of accepted URIs: 467 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170322-raw.uri:
+Number of launched URIs: 388065 | Number of accepted URIs: 0 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170520-raw.uri:
+Number of launched URIs: 265444 | Number of accepted URIs: 265444 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170705-raw.uri:
+Number of launched URIs: 186255 | Number of accepted URIs: 186255 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170713-raw.uri:
+Number of launched URIs: 142917 | Number of accepted URIs: 142917 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170602-raw.uri:
+Number of launched URIs: 315664 | Number of accepted URIs: 315664 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170627-raw.uri:
+Number of launched URIs: 232434 | Number of accepted URIs: 232434 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170218-raw.uri:
+Number of launched URIs: 18479 | Number of accepted URIs: 18479 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170505-raw.uri:
+Number of launched URIs: 5233 | Number of accepted URIs: 5233 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170528-raw.uri:
+Number of launched URIs: 146347 | Number of accepted URIs: 146347 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170512-raw.uri:
+Number of launched URIs: 16525 | Number of accepted URIs: 16525 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170717-raw.uri:
+Number of launched URIs: 7505 | Number of accepted URIs: 7505 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170706-raw.uri:
+Number of launched URIs: 181982 | Number of accepted URIs: 181982 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170214-raw.uri:
+Number of launched URIs: 28901 | Number of accepted URIs: 28901 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170129-raw.uri:
+Number of launched URIs: 103974 | Number of accepted URIs: 103974 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170622-raw.uri:
+Number of launched URIs: 264856 | Number of accepted URIs: 264856 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170428-raw.uri:
+Number of launched URIs: 15448 | Number of accepted URIs: 15448 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170621-raw.uri:
+Number of launched URIs: 14947 | Number of accepted URIs: 14947 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170411-raw.uri:
+Number of launched URIs: 6154 | Number of accepted URIs: 6154 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170126-raw.uri:
+Number of launched URIs: 276123 | Number of accepted URIs: 276123 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170403-raw.uri:
+Number of launched URIs: 98897 | Number of accepted URIs: 98897 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170430-raw.uri:
+Number of launched URIs: 75221 | Number of accepted URIs: 75221 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170608-raw.uri:
+Number of launched URIs: 279683 | Number of accepted URIs: 279683 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170618-raw.uri:
+Number of launched URIs: 13170 | Number of accepted URIs: 13170 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170421-raw.uri:
+Number of launched URIs: 320524 | Number of accepted URIs: 320524 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170604-raw.uri:
+Number of launched URIs: 126099 | Number of accepted URIs: 126099 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170422-raw.uri:
+Number of launched URIs: 12472 | Number of accepted URIs: 12472 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170218-raw.uri:
+Number of launched URIs: 230807 | Number of accepted URIs: 230807 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170303-raw.uri:
+Number of launched URIs: 18819 | Number of accepted URIs: 18819 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170215-raw.uri:
+Number of launched URIs: 315307 | Number of accepted URIs: 315307 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170626-raw.uri:
+Number of launched URIs: 8389 | Number of accepted URIs: 8389 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170315-raw.uri:
+Number of launched URIs: 19825 | Number of accepted URIs: 19825 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170517-raw.uri:
+Number of launched URIs: 388176 | Number of accepted URIs: 388176 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170307-raw.uri:
+Number of launched URIs: 387405 | Number of accepted URIs: 387405 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170630-raw.uri:
+Number of launched URIs: 15647 | Number of accepted URIs: 15647 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170420-raw.uri:
+Number of launched URIs: 356433 | Number of accepted URIs: 356433 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170611-raw.uri:
+Number of launched URIs: 12408 | Number of accepted URIs: 12408 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170616-raw.uri:
+Number of launched URIs: 14840 | Number of accepted URIs: 14840 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170405-raw.uri:
+Number of launched URIs: 348260 | Number of accepted URIs: 348260 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170628-raw.uri:
+Number of launched URIs: 15630 | Number of accepted URIs: 15630 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170603-raw.uri:
+Number of launched URIs: 13475 | Number of accepted URIs: 13475 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170624-raw.uri:
+Number of launched URIs: 183961 | Number of accepted URIs: 183961 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170205-raw.uri:
+Number of launched URIs: 76162 | Number of accepted URIs: 76162 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170317-raw.uri:
+Number of launched URIs: 17973 | Number of accepted URIs: 17973 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170613-raw.uri:
+Number of launched URIs: 230904 | Number of accepted URIs: 230904 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170320-raw.uri:
+Number of launched URIs: 4373 | Number of accepted URIs: 4373 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170712-raw.uri:
+Number of launched URIs: 145900 | Number of accepted URIs: 145900 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170624-raw.uri:
+Number of launched URIs: 11182 | Number of accepted URIs: 11182 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170609-raw.uri:
+Number of launched URIs: 14413 | Number of accepted URIs: 14413 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170419-raw.uri:
+Number of launched URIs: 18466 | Number of accepted URIs: 18466 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170114-raw.uri:
+Number of launched URIs: 286158 | Number of accepted URIs: 286158 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170304-raw.uri:
+Number of launched URIs: 14881 | Number of accepted URIs: 14881 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170714-raw.uri:
+Number of launched URIs: 138964 | Number of accepted URIs: 138964 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170617-raw.uri:
+Number of launched URIs: 13979 | Number of accepted URIs: 13979 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170717-raw.uri:
+Number of launched URIs: 53398 | Number of accepted URIs: 53398 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170127-raw.uri:
+Number of launched URIs: 266448 | Number of accepted URIs: 266448 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170121-raw.uri:
+Number of launched URIs: 245378 | Number of accepted URIs: 245378 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170530-raw.uri:
+Number of launched URIs: 390806 | Number of accepted URIs: 390806 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170312-raw.uri:
+Number of launched URIs: 3580 | Number of accepted URIs: 3580 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170429-raw.uri:
+Number of launched URIs: 10905 | Number of accepted URIs: 10905 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170326-raw.uri:
+Number of launched URIs: 106772 | Number of accepted URIs: 106772 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170111-raw.uri:
+Number of launched URIs: 399708 | Number of accepted URIs: 399708 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170125-raw.uri:
+Number of launched URIs: 307537 | Number of accepted URIs: 307537 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170716-raw.uri:
+Number of launched URIs: 43363 | Number of accepted URIs: 43363 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170215-raw.uri:
+Number of launched URIs: 19340 | Number of accepted URIs: 19340 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170615-raw.uri:
+Number of launched URIs: 263751 | Number of accepted URIs: 263751 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170407-raw.uri:
+Number of launched URIs: 282302 | Number of accepted URIs: 282302 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170625-raw.uri:
+Number of launched URIs: 15499 | Number of accepted URIs: 15499 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170511-raw.uri:
+Number of launched URIs: 17072 | Number of accepted URIs: 17072 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170316-raw.uri:
+Number of launched URIs: 20389 | Number of accepted URIs: 20389 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170226-raw.uri:
+Number of launched URIs: 70841 | Number of accepted URIs: 70841 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170217-raw.uri:
+Number of launched URIs: 319546 | Number of accepted URIs: 319546 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170423-raw.uri:
+Number of launched URIs: 97951 | Number of accepted URIs: 97951 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170622-raw.uri:
+Number of launched URIs: 15440 | Number of accepted URIs: 15440 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170127-raw.uri:
+Number of launched URIs: 2326 | Number of accepted URIs: 2326 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170605-raw.uri:
+Number of launched URIs: 11248 | Number of accepted URIs: 11248 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170522-raw.uri:
+Number of launched URIs: 12212 | Number of accepted URIs: 12212 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170518-raw.uri:
+Number of launched URIs: 346156 | Number of accepted URIs: 346156 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170311-raw.uri:
+Number of launched URIs: 12876 | Number of accepted URIs: 12876 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170226-raw.uri:
+Number of launched URIs: 4263 | Number of accepted URIs: 4263 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170508-raw.uri:
+Number of launched URIs: 5096 | Number of accepted URIs: 5096 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170306-raw.uri:
+Number of launched URIs: 120219 | Number of accepted URIs: 120219 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170515-raw.uri:
+Number of launched URIs: 4786 | Number of accepted URIs: 4786 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170623-raw.uri:
+Number of launched URIs: 233549 | Number of accepted URIs: 233549 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170506-raw.uri:
+Number of launched URIs: 4875 | Number of accepted URIs: 4875 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170116-raw.uri:
+Number of launched URIs: 135492 | Number of accepted URIs: 135492 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170313-raw.uri:
+Number of launched URIs: 4935 | Number of accepted URIs: 4935 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170201-raw.uri:
+Number of launched URIs: 15171 | Number of accepted URIs: 15171 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170324-raw.uri:
+Number of launched URIs: 334933 | Number of accepted URIs: 334933 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170216-raw.uri:
+Number of launched URIs: 18043 | Number of accepted URIs: 18043 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170307-raw.uri:
+Number of launched URIs: 20216 | Number of accepted URIs: 20216 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170629-raw.uri:
+Number of launched URIs: 16224 | Number of accepted URIs: 16224 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170224-raw.uri:
+Number of launched URIs: 16415 | Number of accepted URIs: 16415 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170712-raw.uri:
+Number of launched URIs: 9141 | Number of accepted URIs: 9141 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170323-raw.uri:
+Number of launched URIs: 363063 | Number of accepted URIs: 363063 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170306-raw.uri:
+Number of launched URIs: 5728 | Number of accepted URIs: 5728 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170504-raw.uri:
+Number of launched URIs: 5704 | Number of accepted URIs: 5704 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170620-raw.uri:
+Number of launched URIs: 227500 | Number of accepted URIs: 227500 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170614-raw.uri:
+Number of launched URIs: 261972 | Number of accepted URIs: 261972 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170131-raw.uri:
+Number of launched URIs: 262848 | Number of accepted URIs: 262848 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170531-raw.uri:
+Number of launched URIs: 12252 | Number of accepted URIs: 12252 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170203-raw.uri:
+Number of launched URIs: 218279 | Number of accepted URIs: 218279 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170313-raw.uri:
+Number of launched URIs: 109218 | Number of accepted URIs: 109218 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170314-raw.uri:
+Number of launched URIs: 377183 | Number of accepted URIs: 377183 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170423-raw.uri:
+Number of launched URIs: 4223 | Number of accepted URIs: 4223 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170603-raw.uri:
+Number of launched URIs: 273237 | Number of accepted URIs: 273237 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170501-raw.uri:
+Number of launched URIs: 67411 | Number of accepted URIs: 67411 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170210-raw.uri:
+Number of launched URIs: 14468 | Number of accepted URIs: 14468 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170221-raw.uri:
+Number of launched URIs: 20572 | Number of accepted URIs: 20572 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170419-raw.uri:
+Number of launched URIs: 352977 | Number of accepted URIs: 352977 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170612-raw.uri:
+Number of launched URIs: 108316 | Number of accepted URIs: 108316 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170707-raw.uri:
+Number of launched URIs: 26641 | Number of accepted URIs: 26641 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170420-raw.uri:
+Number of launched URIs: 18333 | Number of accepted URIs: 18333 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170212-raw.uri:
+Number of launched URIs: 4297 | Number of accepted URIs: 4297 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170302-raw.uri:
+Number of launched URIs: 356635 | Number of accepted URIs: 356635 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170520-raw.uri:
+Number of launched URIs: 56966 | Number of accepted URIs: 56966 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170202-raw.uri:
+Number of launched URIs: 11938 | Number of accepted URIs: 11938 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170522-raw.uri:
+Number of launched URIs: 160998 | Number of accepted URIs: 160998 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170611-raw.uri:
+Number of launched URIs: 113977 | Number of accepted URIs: 113977 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170710-raw.uri:
+Number of launched URIs: 58418 | Number of accepted URIs: 58418 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170219-raw.uri:
+Number of launched URIs: 3505 | Number of accepted URIs: 3505 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170123-raw.uri:
+Number of launched URIs: 119192 | Number of accepted URIs: 119192 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170412-raw.uri:
+Number of launched URIs: 122045 | Number of accepted URIs: 122045 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170312-raw.uri:
+Number of launched URIs: 83934 | Number of accepted URIs: 83934 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170227-raw.uri:
+Number of launched URIs: 4688 | Number of accepted URIs: 4688 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170610-raw.uri:
+Number of launched URIs: 238279 | Number of accepted URIs: 238279 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170128-raw.uri:
+Number of launched URIs: 230850 | Number of accepted URIs: 230850 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170118-raw.uri:
+Number of launched URIs: 289942 | Number of accepted URIs: 289942 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170709-raw.uri:
+Number of launched URIs: 10024 | Number of accepted URIs: 10024 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170310-raw.uri:
+Number of launched URIs: 7693 | Number of accepted URIs: 7693 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170427-raw.uri:
+Number of launched URIs: 16405 | Number of accepted URIs: 16405 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170414-raw.uri:
+Number of launched URIs: 64697 | Number of accepted URIs: 64697 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170130-raw.uri:
+Number of launched URIs: 96408 | Number of accepted URIs: 96408 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170510-raw.uri:
+Number of launched URIs: 381180 | Number of accepted URIs: 381180 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170607-raw.uri:
+Number of launched URIs: 14215 | Number of accepted URIs: 14215 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170204-raw.uri:
+Number of launched URIs: 178460 | Number of accepted URIs: 178460 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170427-raw.uri:
+Number of launched URIs: 339580 | Number of accepted URIs: 339580 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170619-raw.uri:
+Number of launched URIs: 12740 | Number of accepted URIs: 12740 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170711-raw.uri:
+Number of launched URIs: 148533 | Number of accepted URIs: 148533 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170425-raw.uri:
+Number of launched URIs: 15640 | Number of accepted URIs: 15640 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170112-raw.uri:
+Number of launched URIs: 351441 | Number of accepted URIs: 351441 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170530-raw.uri:
+Number of launched URIs: 390806 | Number of accepted URIs: 390806 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170314-raw.uri:
+Number of launched URIs: 20366 | Number of accepted URIs: 20366 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170211-raw.uri:
+Number of launched URIs: 14885 | Number of accepted URIs: 14885 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170529-raw.uri:
+Number of launched URIs: 138725 | Number of accepted URIs: 138725 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170228-raw.uri:
+Number of launched URIs: 208403 | Number of accepted URIs: 208403 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170327-raw.uri:
+Number of launched URIs: 131698 | Number of accepted URIs: 131698 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170117-raw.uri:
+Number of launched URIs: 316019 | Number of accepted URIs: 316019 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170225-raw.uri:
+Number of launched URIs: 12086 | Number of accepted URIs: 12086 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170606-raw.uri:
+Number of launched URIs: 18866 | Number of accepted URIs: 18866 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170713-raw.uri:
+Number of launched URIs: 9696 | Number of accepted URIs: 9696 | Number of detected attacks: 0
+
+/run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170131-raw.uri:
+Number of launched URIs: 8705 | Number of accepted URIs: 8705 | Number of detected attacks: 0
+
+TOTAL:
+Number of launched URIs: 46192967 | Number of accepted URIs: 46100633 | Number of detected attacks: 92334
