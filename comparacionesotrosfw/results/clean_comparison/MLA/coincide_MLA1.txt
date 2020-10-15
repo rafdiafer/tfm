@@ -1,0 +1,12 @@
+/foo.rss
+/backdoor.php
+/browse-scategory.php?sc=1%20and%201=1::/www/service-provide
+/category_list.php?search=1%20and%201=1
+/list?city=1%20and%201=1&main_search=
+/list?city=1%20and%201=1&main_search=
+/list?city=1%20and%201=1&main_search=
+/list?city=1%20and%201=1&main_search=
+/list?city=1%20and%201=1&main_search=
+/list?city=1%20and%201=1&main_search=
+
+TOTAL = 10

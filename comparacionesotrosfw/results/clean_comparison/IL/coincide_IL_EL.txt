@@ -1,0 +1,3 @@
+/foo.rss
+
+TOTAL = 1

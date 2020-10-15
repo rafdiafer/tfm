@@ -1,0 +1,5 @@
+ URL: http://192.168.103.2/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc%29%20UNION%20ALL%20SELECT%20NU
+ Attack Info: SQL Servers UNION Query-based SQL Injection SQLVulnerabilities (CVE-2017-6361)
+ Protection Name: SQL Servers UNION Query-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}

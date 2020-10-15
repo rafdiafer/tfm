@@ -1,0 +1,17 @@
+ URL: http://192.168.103.2/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc
+ Attack Info: SQL Injection Scanning Attempt
+ Protection Name: SQL Injection Scanning Attempt
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=uHSNDCdc
+ Attack Info: SQL Servers MySQL Vendor-specific
+ Protection Name: SQL Servers MySQL Vendor-specific SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/sites/bib3.us.es/files/styles/cenefa_inicio_1200-280/public/expobus_carrusel1.png?itok=%28SELECT%20CONCAT%280x7176767071%2C%28SE
+ Attack Info: SQL Injection Scanning Attempt
+ Protection Name: Sqlmap Automated SQL Injection tool
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}

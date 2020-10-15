@@ -1,0 +1,22 @@
+ossim/dashboard/sections/widgets/data/gauge.php?&type=alarm&
+cgi-bin/userConfig.cgi?func=cloudPersonalSmtp&sid=SIDVALUE&h
+gadgets/definitions/uptime.CapacityWhatIfGadget/getmetrics.p
+wordpress/wp-admin/admin.php?page=SpiderCalendar&%20search_e
+esbus/servlet/GetSQLData?SCHEMA=ESBUS_INTERNAL&TABLE=SCHEDUL
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+pixie_v1.04/admin/index.php?s=publish&x=filemanager&--------
+theme/eldy/style.css.php?lang=de%27%3BINSERT%20INTO%20llx_us
+index.php?controller=expComment&action=showComments&content_
+GeniXCMS/register.php?activation=1'%20AND%20(SELECT%201%20FR
+mobiledoc/jsp/ccmr/clientPortal/admin/service/portalUserServ
+ping.cgi?DIA_IPADDRESS=8.8.8.8
+index.php?option=com_socialpinboard&view=ajaxcontrol&tmpl=co
+api/sms_check.php?param=1%27and%20extractvalue(1,concat(0x7e
+wordpress/wp-admin/admin.php?page=wpdevart_gallery_themes&ta
+phpCollab-v2.5.1/newsdesk/newsdesk.php?action=show&id=1%20an
+index.php?option=com_visualcalendar&view=load&id=1%20and%201
+index.php?option=com_cpeventcalendar&task=load&id=1%20and%20
+index.php?option=com_gmap&view=gm_markers&tmpl=component&lay
+index.php/component/ekrishta/alluser?options=com_ekrishta&vi
+
+TOTAL = 20

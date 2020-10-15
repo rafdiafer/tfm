@@ -653,7 +653,7 @@ Number of launched URIs: 17926 | Number of accepted URIs: 17926 | Number of dete
 Number of launched URIs: 467 | Number of accepted URIs: 467 | Number of detected attacks: 0
 
 /run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/access_log-20170322-raw.uri:
-Number of launched URIs: 388065 | Number of accepted URIs: 0 | Number of detected attacks: 0
+Number of launched URIs: 388065 | Number of accepted URIs: 388065 | Number of detected attacks: 0
 
 /run/media/dit/588160b2-d0b0-410c-8e0e-4d2f43ca8bdf/raw-uris/ssl_access_log-20170520-raw.uri:
 Number of launched URIs: 265444 | Number of accepted URIs: 265444 | Number of detected attacks: 0

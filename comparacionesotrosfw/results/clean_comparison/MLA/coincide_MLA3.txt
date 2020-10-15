@@ -1,0 +1,4 @@
+/foo.rss
+/backdoor.php
+
+TOTAL = 2

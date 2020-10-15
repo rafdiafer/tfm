@@ -1,0 +1,54 @@
+ URL: http://192.168.103.2/node?page=1%29%20UNION%20ALL%20SELECT%20NULL--%20tZFl
+ Attack Info: SQL Servers UNION Query-based SQL Injection
+ Protection Name: SQL Servers UNION Query-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%20UNION%20ALL%20SELECT%20%27qbpxq%27%7C%7C%27fDfzmmHOTfklDIGgnzaFkdmNIdDjfIzxVNTRqPFj%27%7C%7C%27qjjqq%27--%20mOVx
+ Attack Info: SQL Servers SQL Injection Evasion Techniques
+ Protection Name: SQL Servers SQL Injection Evasion Techniques
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%29%20ORDER%20BY%201%23
+ Attack Info: Sqlmap Automated SQL Injection tool
+ Protection Name: Sqlmap Automated SQL Injection tool
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%29%20UNION%20ALL%20SELECT%20NULL--%20tZFl
+ Attack Info: SQL Servers UNION Query-based SQL Injection
+ Protection Name: SQL Servers UNION Query-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%20UNION%20ALL%20SELECT%20%27qbpxq%27%7C%7C%27fDfzmmHOTfklDIGgnzaFkdmNIdDjfIzxVNTRqPFj%27%7C%7C%27qjjqq%27--%20mOVx
+ Attack Info: SQL Servers SQL Injection Evasion Techniques
+ Protection Name: SQL Servers SQL Injection Evasion Techniques
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%29%20ORDER%20BY%201%23
+ Attack Info: Sqlmap Automated SQL Injection tool
+ Protection Name: Sqlmap Automated SQL Injection tool
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%29%20UNION%20ALL%20SELECT%20NULL--%20tZFl
+ Attack Info: SQL Servers UNION Query-based SQL Injection
+ Protection Name: SQL Servers UNION Query-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%20UNION%20ALL%20SELECT%20%27qbpxq%27%7C%7C%27fDfzmmHOTfklDIGgnzaFkdmNIdDjfIzxVNTRqPFj%27%7C%7C%27qjjqq%27--%20mOVx
+ Attack Info: SQL Servers SQL Injection Evasion Techniques
+ Protection Name: SQL Servers SQL Injection Evasion Techniques
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/node?page=1%29%20ORDER%20BY%201%23
+ Attack Info: Sqlmap Automated SQL Injection tool
+ Protection Name: Sqlmap Automated SQL Injection tool
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+

